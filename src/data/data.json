@@ -1,0 +1,329 @@
+[{
+    "day": 15,
+    "month": 10,
+    "year": 2023,
+    "locations": [{
+            "id": 1,
+            "name": "Location 1",
+            "sold": [{
+                    "id": 1,
+                    "name": "Beer Brand 1",
+                    "sold": 51.7,
+                    "efficiency": 94,
+                    "quality": 89
+                },
+                {
+                    "id": 2,
+                    "name": "Beer Brand 2",
+                    "sold": 81.7,
+                    "efficiency": 89,
+                    "quality": 93
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Location 2",
+            "sold": [{
+                    "id": 3,
+                    "name": "Beer Brand 3",
+                    "sold": 45.5,
+                    "efficiency": 88,
+                    "quality": 87
+                },
+                {
+                    "id": 4,
+                    "name": "Beer Brand 4",
+                    "sold": 48.3,
+                    "efficiency": 92,
+                    "quality": 90
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Location 3",
+            "sold": [{
+                    "id": 5,
+                    "name": "Beer Brand 5",
+                    "sold": 55.2,
+                    "efficiency": 95,
+                    "quality": 91
+                },
+                {
+                    "id": 6,
+                    "name": "Beer Brand 6",
+                    "sold": 49.8,
+                    "efficiency": 90,
+                    "quality": 88
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Location 4",
+            "sold": [{
+                    "id": 7,
+                    "name": "Beer Brand 7",
+                    "sold": 47.2,
+                    "efficiency": 91,
+                    "quality": 88
+                },
+                {
+                    "id": 8,
+                    "name": "Beer Brand 8",
+                    "sold": 50.5,
+                    "efficiency": 93,
+                    "quality": 89
+                }
+            ]
+        }
+    ]
+},
+{
+    "day": 16,
+    "month": 10,
+    "year": 2023,
+    "locations": [{
+            "id": 1,
+            "name": "Location 1",
+            "sold": [{
+                    "id": 1,
+                    "name": "Beer Brand 1",
+                    "sold": 53.1,
+                    "efficiency": 90,
+                    "quality": 86
+                },
+                {
+                    "id": 2,
+                    "name": "Beer Brand 2",
+                    "sold": 49.6,
+                    "efficiency": 92,
+                    "quality": 88
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Location 2",
+            "sold": [{
+                    "id": 3,
+                    "name": "Beer Brand 3",
+                    "sold": 46.8,
+                    "efficiency": 89,
+                    "quality": 85
+                },
+                {
+                    "id": 4,
+                    "name": "Beer Brand 4",
+                    "sold": 50.3,
+                    "efficiency": 93,
+                    "quality": 89
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Location 3",
+            "sold": [{
+                    "id": 5,
+                    "name": "Beer Brand 5",
+                    "sold": 52.4,
+                    "efficiency": 91,
+                    "quality": 87
+                },
+                {
+                    "id": 6,
+                    "name": "Beer Brand 6",
+                    "sold": 48.7,
+                    "efficiency": 90,
+                    "quality": 88
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Location 4",
+            "sold": [{
+                    "id": 7,
+                    "name": "Beer Brand 7",
+                    "sold": 54.3,
+                    "efficiency": 94,
+                    "quality": 89
+                },
+                {
+                    "id": 8,
+                    "name": "Beer Brand 8",
+                    "sold": 47.9,
+                    "efficiency": 92,
+                    "quality": 87
+                }
+            ]
+        }
+    ]
+},
+{
+    "day": 17,
+    "month": 10,
+    "year": 2023,
+    "locations": [{
+            "id": 1,
+            "name": "Location 1",
+            "sold": [{
+                    "id": 1,
+                    "name": "Beer Brand 1",
+                    "sold": 25.1,
+                    "efficiency": 30,
+                    "quality": 150
+                },
+                {
+                    "id": 2,
+                    "name": "Beer Brand 2",
+                    "sold": 31.2,
+                    "efficiency": 69.2,
+                    "quality": 11
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Location 2",
+            "sold": [{
+                    "id": 3,
+                    "name": "Beer Brand 3",
+                    "sold": 29.9,
+                    "efficiency": 5,
+                    "quality": 95
+                },
+                {
+                    "id": 4,
+                    "name": "Beer Brand 4",
+                    "sold": 43.3,
+                    "efficiency": 82,
+                    "quality": 59
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Location 3",
+            "sold": [{
+                    "id": 5,
+                    "name": "Beer Brand 5",
+                    "sold": 66.6,
+                    "efficiency": 22,
+                    "quality": 15
+                },
+                {
+                    "id": 6,
+                    "name": "Beer Brand 6",
+                    "sold": 35.4,
+                    "efficiency": 57,
+                    "quality": 20
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Location 4",
+            "sold": [{
+                    "id": 7,
+                    "name": "Beer Brand 7",
+                    "sold": 94.2,
+                    "efficiency": 73,
+                    "quality": 52
+                },
+                {
+                    "id": 8,
+                    "name": "Beer Brand 8",
+                    "sold": 14.9,
+                    "efficiency": 35,
+                    "quality": 79
+                }
+            ]
+        }
+    ]
+},
+{
+    "day": 18,
+    "month": 10,
+    "year": 2023,
+    "locations": [{
+            "id": 1,
+            "name": "Location 1",
+            "sold": [{
+                    "id": 1,
+                    "name": "Beer Brand 1",
+                    "sold": 18.9,
+                    "efficiency": 29,
+                    "quality": 64
+                },
+                {
+                    "id": 2,
+                    "name": "Beer Brand 2",
+                    "sold": 60.3,
+                    "efficiency": 61,
+                    "quality": 81
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Location 2",
+            "sold": [{
+                    "id": 3,
+                    "name": "Beer Brand 3",
+                    "sold": 26.8,
+                    "efficiency": 18,
+                    "quality": 37
+                },
+                {
+                    "id": 4,
+                    "name": "Beer Brand 4",
+                    "sold": 55.8,
+                    "efficiency": 18,
+                    "quality": 37
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Location 3",
+            "sold": [{
+                    "id": 5,
+                    "name": "Beer Brand 5",
+                    "sold": 15,
+                    "efficiency": 82,
+                    "quality": 50
+                },
+                {
+                    "id": 6,
+                    "name": "Beer Brand 6",
+                    "sold": 84.4,
+                    "efficiency": 64,
+                    "quality": 40
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Location 4",
+            "sold": [{
+                    "id": 7,
+                    "name": "Beer Brand 7",
+                    "sold": 28.4,
+                    "efficiency": 19,
+                    "quality": 160
+                },
+                {
+                    "id": 8,
+                    "name": "Beer Brand 8",
+                    "sold": 32.7,
+                    "efficiency": 50,
+                    "quality": 49
+                }
+            ]
+        }
+    ]
+}
+]
