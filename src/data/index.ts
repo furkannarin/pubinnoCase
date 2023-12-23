@@ -18,7 +18,6 @@ const locationData: LocMap = {};
 const locationNames: string[] = [];
 
 const getStructuredData = () => structuredData;
-const getLocationData = () => locationData;
 
 // total cost of this function in iter counts:
 // DAY_COUNT * LOCATION_ARRAY_LENGTH
@@ -148,7 +147,6 @@ const createLocGraphData = (date: number, selectedLocs: string[]): LocDataGraphD
 export default {
     structureData,
     getStructuredData,
-    getLocationData,
     locationNames,
     createLineGraphData,
     createLocGraphData
